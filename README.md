@@ -1,9 +1,10 @@
-# Web-API-de-Libro
-Basado en la tarea anterior se debe de hacer una modificación a los API, lo primero seria crear una nueva carpeta "utils" para crear las clases que necesitaremos para los mensajes de error y del estado esta seria la muestra
+# Web-API-de-Libro_MANUEL_GUERRERO
+DATOS DE LO QUE PIDE LA TAREA
+Basado en la tarea anterior Se debe modificar , lo primero que realice pue crear una carpeta "utils" para poder crear las respectivas clases que necesite para los mensajes de error y el estado de la muestra para crear las clases que necesitaremos para los mensajes de error y esto seria la muestra 
 
 ![Captura de pantalla (2213)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura1.PNG)
 
-Ahora vamos con la modificación del codigo para lograr lo que se pide en la parte del controlador.
+Ahora modificaremos  el codigo para lograr lo que se pide en la parte del controlador.
 
 ![Captura de pantalla (2219)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura2.PNG)
 
@@ -12,16 +13,16 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
 
   ![Captura de pantalla (2213)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura3.PNG)
 
-- ExceptionResponse
+- (ExceptionResponse)
 
   ![Captura de pantalla (2220)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura4.PNG)
 
-- RestResponseEntityExceptionHandler
+- (RestResponseEntityExceptionHandler)
   ![Captura de pantalla (2217)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura5.PNG)
 
-- Ejecución
+- resultado de la Ejecución en postman del error 
   ![Captura de pantalla (2212)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura6.PNG)
 
-2. Creación de un libro, debe de enviar el estado CREATED
+2. Creación de un libro, debe de enviar el estado CREATED y no da error.
 ![Captura de pantalla (2214)](https://github.com/Guerrero2403/Tarea3_API/blob/main/Capturas/Captura7.PNG)
 
